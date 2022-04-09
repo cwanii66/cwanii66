@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![chriswong](https://metrics.lecoq.io/cwluvani?template=classic&config.timezone=Asia%2FShanghai)
-[![cwluvani's GitHub stats](https://github-readme-stats.vercel.app/api?cwluvani=anuraghazra&count_private=true&show_icons=true&theme=onedark)](https://github.com/cwluvani/github-readme-stats)
+[![cwluvani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwluvani&count_private=true&show_icons=true&theme=onedark)](https://github.com/cwluvani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwluvani&layout=compact)](https://github.com/cwluvani/github-readme-stats)
 
