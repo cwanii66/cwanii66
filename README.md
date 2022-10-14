@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**cwluvani/cwluvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cwanii66/cwanii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chriswong](https://metrics.lecoq.io/cwluvani?template=classic&config.timezone=Asia%2FShanghai)
-[![cwluvani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwluvani&count_private=true&show_icons=true&theme=onedark)](https://github.com/cwluvani/github-readme-stats)
+![chriswong](https://metrics.lecoq.io/cwanii66?template=classic&config.timezone=Asia%2FShanghai)
+[![cwluvani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwanii66&count_private=true&show_icons=true&theme=onedark)](https://github.com/cwanii66/github-readme-stats)
 
 
