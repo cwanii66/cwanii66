@@ -40,6 +40,5 @@ Here are some ideas to get you started:
   <img width="333px" src="https://activity-graph.herokuapp.com/graph?username=cwanii66&theme=xcode&bg_color=FF000000&hide_border=true" />
 </div>
 
-
-<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
