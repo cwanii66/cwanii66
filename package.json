@@ -1,0 +1,28 @@
+{
+  "name": "cwanii66",
+  "version": "1.0.0",
+  "description": "Hello, I'm Chris Wong",
+  "bugs": "https://github.com/cwanii66/cwanii66",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwanii66/cwanii66"
+  },
+  "main": "index.js",
+  "bin": {
+    "cw": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "type": "module",
+  "keywords": [
+    "github",
+    "readme",
+    "cwanii66"
+  ],
+  "author": "Chris Wong",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^8.4.0"
+  }
+}
