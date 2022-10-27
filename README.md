@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 
 - <img src="./pics/mail.svg"> [Email](mailto:hi@wh18710455626@gmail.com)
 - <img src="./pics/twitter.svg"> [Twitter](https://twitter.com/cwanii66)
-- <img src="./icons/pics.svg"> [Blog](https://cwanii66.netlify.app/)
+- <img src="./pics/article.svg"> [Blog](https://cwanii66.netlify.app/)
 
-
+***
 <p>&nbsp;&nbsp;</p>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
