@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - <img src="./pics/article.svg"> [Blog](https://cwanii66.netlify.app/)
 
 
-📊 **Activity Graph** 
 <!-- GitHub Activity Graph -->
+#### 📊 Activity Graph
 <div>
   <img width="333px" src="https://activity-graph.herokuapp.com/graph?username=cwanii66&theme=xcode&bg_color=FF000000&hide_border=true" />
 </div>
