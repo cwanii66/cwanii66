@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-### Hi there 👋
+### Hi there 👋 , I'm Chris Wong.
 
 <!--
 **cwanii66/cwanii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
