@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Activity Graph -->
 <div>
-  <img width="480px" src="https://activity-graph.herokuapp.com/graph?username=cwanii66&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <img width="300px" src="https://activity-graph.herokuapp.com/graph?username=cwanii66&theme=xcode&bg_color=FF000000&hide_border=true" />
 </div>
 
 
